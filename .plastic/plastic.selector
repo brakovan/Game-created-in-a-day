@@ -1,0 +1,4 @@
+repository "HotColdProj@DarekaGames@cloud"
+  path "/"
+    br "/main"
+    co "/main"
